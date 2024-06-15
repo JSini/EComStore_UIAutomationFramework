@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-15T17:18:50 IST" name="Suite" finished-at="2024-06-15T17:19:12 IST" duration-ms="22065">
+    <groups>
+    </groups>
+    <test started-at="2024-06-15T17:18:50 IST" name="Test" finished-at="2024-06-15T17:19:12 IST" duration-ms="22065">
+      <class name="com.ecom.testcases.TC_InventoryItemsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.testcases.TC_InventoryItemsTest@7c6908d7]" started-at="2024-06-15T17:18:54 IST" name="setUp" finished-at="2024-06-15T17:18:55 IST" duration-ms="1117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyInventoryItems()[pri:0, instance:com.ecom.testcases.TC_InventoryItemsTest@7c6908d7]" started-at="2024-06-15T17:18:55 IST" name="verifyInventoryItems" finished-at="2024-06-15T17:18:55 IST" duration-ms="553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInventoryItems -->
+        <test-method signature="verifySingleInventoryItem()[pri:0, instance:com.ecom.testcases.TC_InventoryItemsTest@7c6908d7]" started-at="2024-06-15T17:18:55 IST" name="verifySingleInventoryItem" finished-at="2024-06-15T17:18:56 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySingleInventoryItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.testcases.TC_InventoryItemsTest@7c6908d7]" started-at="2024-06-15T17:18:56 IST" name="tearDown" finished-at="2024-06-15T17:18:56 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecom.testcases.TC_InventoryItemsTest -->
+      <class name="com.ecom.testcases.TC_AddRemoveProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.testcases.TC_AddRemoveProductTest@3c9754d8]" started-at="2024-06-15T17:18:56 IST" name="setUp" finished-at="2024-06-15T17:18:57 IST" duration-ms="1084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyContinueShoppingBtn()[pri:1, instance:com.ecom.testcases.TC_AddRemoveProductTest@3c9754d8]" started-at="2024-06-15T17:18:57 IST" name="verifyContinueShoppingBtn" finished-at="2024-06-15T17:18:57 IST" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContinueShoppingBtn -->
+        <test-method signature="verifyAddRemoveProduct()[pri:2, instance:com.ecom.testcases.TC_AddRemoveProductTest@3c9754d8]" started-at="2024-06-15T17:18:57 IST" name="verifyAddRemoveProduct" finished-at="2024-06-15T17:19:08 IST" duration-ms="10569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddRemoveProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.testcases.TC_AddRemoveProductTest@3c9754d8]" started-at="2024-06-15T17:19:08 IST" name="tearDown" finished-at="2024-06-15T17:19:10 IST" duration-ms="1727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecom.testcases.TC_AddRemoveProductTest -->
+      <class name="com.ecom.testcases.TC_LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.testcases.TC_LoginTest@4116aac9]" started-at="2024-06-15T17:18:50 IST" name="setUp" finished-at="2024-06-15T17:18:53 IST" duration-ms="2477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogin()[pri:0, instance:com.ecom.testcases.TC_LoginTest@4116aac9]" started-at="2024-06-15T17:18:53 IST" name="verifyLogin" finished-at="2024-06-15T17:18:53 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.testcases.TC_LoginTest@4116aac9]" started-at="2024-06-15T17:18:53 IST" name="tearDown" finished-at="2024-06-15T17:18:54 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecom.testcases.TC_LoginTest -->
+      <class name="com.ecom.testcases.TC_BuyProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.testcases.TC_BuyProductTest@3bf7ca37]" started-at="2024-06-15T17:19:10 IST" name="setUp" finished-at="2024-06-15T17:19:11 IST" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBuyProduct()[pri:0, instance:com.ecom.testcases.TC_BuyProductTest@3bf7ca37]" started-at="2024-06-15T17:19:11 IST" name="verifyBuyProduct" finished-at="2024-06-15T17:19:12 IST" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBuyProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecom.testcases.TC_BuyProductTest@3bf7ca37]" started-at="2024-06-15T17:19:12 IST" name="tearDown" finished-at="2024-06-15T17:19:12 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecom.testcases.TC_BuyProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

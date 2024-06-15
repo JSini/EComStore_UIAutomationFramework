@@ -1,0 +1,1367 @@
+[INFO ] 2024-06-14 15:54:43.933 [main] EComStore - url launched
+[INFO ] 2024-06-14 15:54:43.971 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 15:54:44.193 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 15:54:44.193 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 15:54:44.202 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-14 15:54:44.203 [main] EComStore - verifyInventoryItems - Failed
+[INFO ] 2024-06-14 15:54:44.203 [main] EComStore - There seems a problem - no items in inventory!!
+[INFO ] 2024-06-14 15:55:09.834 [main] EComStore - url launched
+[INFO ] 2024-06-14 15:55:09.869 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 15:55:10.137 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 15:55:10.138 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 15:55:10.170 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 15:55:10.201 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 15:57:19.360 [main] EComStore - url launched
+[INFO ] 2024-06-14 15:57:19.400 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 15:57:19.624 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 15:57:19.625 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 15:57:19.638 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-14 15:57:19.638 [main] EComStore - verifyInventoryItems - Failed
+[INFO ] 2024-06-14 15:57:19.638 [main] EComStore - There seems a problem - no items in inventory!!
+[INFO ] 2024-06-14 15:58:28.652 [main] EComStore - url launched
+[INFO ] 2024-06-14 15:58:28.699 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 15:58:28.933 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 15:58:28.933 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 15:58:28.959 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:08:39.460 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:08:39.496 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:08:39.716 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:08:39.717 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:08:39.742 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:08:39.745 [main] EComStore - 3
+[INFO ] 2024-06-14 16:08:39.763 [main] EComStore - [[ChromeDriver: chrome on windows (f9e03e05635b670481d0747e4fdb9842)] -> css selector: div#inventory_container div.inventory_list div.inventory_item]
+[INFO ] 2024-06-14 16:10:56.304 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:10:56.343 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:10:56.565 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:10:56.565 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:10:56.590 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:10:56.592 [main] EComStore - 2
+[INFO ] 2024-06-14 16:10:56.623 [main] EComStore - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-14 16:15:32.615 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:15:32.652 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:15:32.873 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:15:32.874 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:15:32.895 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:15:32.897 [main] EComStore - 2
+[INFO ] 2024-06-14 16:15:32.925 [main] EComStore - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-14 16:16:45.410 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:16:45.450 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:16:45.683 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:16:45.683 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:16:45.705 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:16:45.706 [main] EComStore - 1
+[INFO ] 2024-06-14 16:19:08.470 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:19:08.508 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:19:08.731 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:19:08.732 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:19:08.767 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:19:08.768 [main] EComStore - 0
+[INFO ] 2024-06-14 16:21:28.249 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:21:28.286 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:21:28.521 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:21:28.521 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:21:28.546 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:21:28.547 [main] EComStore - 5
+[INFO ] 2024-06-14 16:22:38.487 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:22:38.518 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:22:38.756 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:22:38.757 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:22:38.780 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:22:38.782 [main] EComStore - 4
+[INFO ] 2024-06-14 16:23:34.748 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:23:34.786 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:23:35.009 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:23:35.009 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:23:35.035 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:23:35.036 [main] EComStore - 1
+[INFO ] 2024-06-14 16:23:35.071 [main] EComStore - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+[INFO ] 2024-06-14 16:31:31.605 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:31:31.639 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:31:31.867 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:31:31.868 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:31:31.891 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:31:31.892 [main] EComStore - 4
+[INFO ] 2024-06-14 16:31:31.922 [main] EComStore - Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+Add to cart
+[INFO ] 2024-06-14 16:31:58.653 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:31:58.692 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:31:58.924 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:31:58.924 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:31:58.950 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:31:58.952 [main] EComStore - 2
+[INFO ] 2024-06-14 16:31:58.981 [main] EComStore - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-14 16:37:41.680 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:37:41.716 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:37:41.941 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:37:41.942 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:37:41.963 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:37:41.965 [main] EComStore - 1
+[INFO ] 2024-06-14 16:37:41.992 [main] EComStore - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+[INFO ] 2024-06-14 16:37:42.014 [main] EComStore - product selected is : Sauce Labs Bike Light
+[INFO ] 2024-06-14 16:37:42.016 [main] EComStore - product selected is : Sauce Labs Bike Light
+[INFO ] 2024-06-14 16:37:42.046 [main] EComStore - product price is : $9.99
+[INFO ] 2024-06-14 16:37:42.046 [main] EComStore - product price is : $9.99
+[INFO ] 2024-06-14 16:40:35.087 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:40:35.118 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:40:35.344 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:40:35.344 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:40:35.374 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:40:35.375 [main] EComStore - 5
+[INFO ] 2024-06-14 16:40:35.406 [main] EComStore - Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+Add to cart
+[INFO ] 2024-06-14 16:40:35.430 [main] EComStore - product selected is : Test.allTheThings() T-Shirt (Red)
+[INFO ] 2024-06-14 16:40:35.456 [main] EComStore - product price is : $15.99
+[INFO ] 2024-06-14 16:40:35.456 [main] EComStore - adding Test.allTheThings() T-Shirt (Red) to cart
+[INFO ] 2024-06-14 16:58:13.356 [main] EComStore - url launched
+[INFO ] 2024-06-14 16:58:13.392 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 16:58:13.597 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 16:58:13.598 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 16:58:13.622 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 16:58:13.624 [main] EComStore - 1
+[INFO ] 2024-06-14 16:58:13.653 [main] EComStore - Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+[INFO ] 2024-06-14 16:58:13.679 [main] EComStore - product selected is : Sauce Labs Bike Light
+[INFO ] 2024-06-14 16:58:13.702 [main] EComStore - product price is : $9.99
+[INFO ] 2024-06-14 16:58:13.702 [main] EComStore - adding productSauce Labs Bike Light to cart
+[INFO ] 2024-06-14 17:01:00.505 [main] EComStore - url launched
+[INFO ] 2024-06-14 17:01:00.538 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 17:01:00.770 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 17:01:00.771 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 17:01:00.800 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 17:01:00.801 [main] EComStore - 2
+[INFO ] 2024-06-14 17:01:00.832 [main] EComStore - Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-14 17:01:00.858 [main] EComStore - product selected is : Sauce Labs Bolt T-Shirt
+[INFO ] 2024-06-14 17:01:00.881 [main] EComStore - product price is : $15.99
+[INFO ] 2024-06-14 17:01:00.881 [main] EComStore - adding productSauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-06-14 17:01:00.955 [main] EComStore - 1
+[INFO ] 2024-06-14 17:04:42.443 [main] EComStore - url launched
+[INFO ] 2024-06-14 17:04:42.478 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-14 17:04:42.702 [main] EComStore - logged in successfully
+[INFO ] 2024-06-14 17:04:42.703 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-14 17:04:42.723 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-14 17:04:42.725 [main] EComStore - 0
+[INFO ] 2024-06-14 17:04:42.753 [main] EComStore - Selected random item Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Add to cart
+[INFO ] 2024-06-14 17:04:42.778 [main] EComStore - product selected is : Sauce Labs Backpack
+[INFO ] 2024-06-14 17:04:42.803 [main] EComStore - product price is : $29.99
+[INFO ] 2024-06-14 17:04:42.803 [main] EComStore - adding productSauce Labs Backpack to cart
+[INFO ] 2024-06-14 17:04:42.864 [main] EComStore - Cart Badge - items in Cart 1
+[INFO ] 2024-06-15 12:30:52.275 [main] EComStore - url launched
+[INFO ] 2024-06-15 12:30:52.319 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 12:30:52.590 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 12:30:52.590 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 12:30:52.631 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 12:30:52.660 [main] EComStore - Selected random item Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Add to cart
+[INFO ] 2024-06-15 12:30:52.710 [main] EComStore - adding product Sauce Labs Backpack to cart
+[INFO ] 2024-06-15 12:30:52.773 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 12:30:52.773 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 12:34:24.090 [main] EComStore - url launched
+[INFO ] 2024-06-15 12:34:24.124 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 12:34:24.345 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 12:34:24.345 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 12:34:24.370 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 12:34:24.403 [main] EComStore - Selected random item Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 12:34:24.449 [main] EComStore - adding product Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-06-15 12:34:24.524 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 12:34:24.524 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 12:34:24.595 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 12:35:22.258 [main] EComStore - url launched
+[INFO ] 2024-06-15 12:35:22.293 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 12:35:22.509 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 12:35:22.509 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 12:35:22.532 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 12:35:22.560 [main] EComStore - Selected random item Sauce Labs Fleece Jacket
+It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+$49.99
+Add to cart
+[INFO ] 2024-06-15 12:35:22.604 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 12:35:22.674 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 12:35:22.674 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 12:35:22.744 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 12:35:22.769 [main] EComStore - Items successfully added to the cart
+[INFO ] 2024-06-15 12:42:40.739 [main] EComStore - url launched
+[INFO ] 2024-06-15 12:42:40.773 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 12:42:41.006 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 12:42:41.006 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 12:42:41.028 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 12:42:41.056 [main] EComStore - Selected random item Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Add to cart
+[INFO ] 2024-06-15 12:42:41.102 [main] EComStore - adding product Sauce Labs Backpack to cart
+[INFO ] 2024-06-15 12:42:41.166 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 12:42:41.166 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 12:42:41.234 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 12:42:41.261 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Backpack]
+[INFO ] 2024-06-15 12:42:41.261 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 12:44:34.358 [main] EComStore - url launched
+[INFO ] 2024-06-15 12:44:34.391 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 12:44:34.614 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 12:44:34.614 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 12:44:34.637 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 12:44:34.664 [main] EComStore - Selected random item Sauce Labs Fleece Jacket
+It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+$49.99
+Add to cart
+[INFO ] 2024-06-15 12:44:34.712 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 12:44:34.782 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 12:44:34.783 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 12:44:34.855 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 12:44:34.883 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Fleece Jacket]
+[INFO ] 2024-06-15 12:44:34.883 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 12:54:34.174 [main] EComStore - url launched
+[INFO ] 2024-06-15 12:54:34.211 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 12:54:34.424 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 12:54:34.424 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 12:54:34.447 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 12:54:34.476 [main] EComStore - Selected random item Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 12:54:34.524 [main] EComStore - adding product Test.allTheThings() T-Shirt (Red) to cart
+[INFO ] 2024-06-15 12:54:34.590 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 12:54:34.591 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 12:54:34.666 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 12:54:34.696 [main] EComStore - Items successfully added to the cart 
+[Test.allTheThings() T-Shirt (Red)]
+[INFO ] 2024-06-15 12:54:34.696 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 12:58:04.439 [main] EComStore - url launched
+[INFO ] 2024-06-15 12:58:04.475 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 12:58:04.698 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 12:58:04.698 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 12:58:04.720 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 12:58:04.746 [main] EComStore - Selected random item Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 12:58:04.795 [main] EComStore - adding product Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-06-15 12:58:04.862 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 12:58:04.862 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 12:58:04.932 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 12:58:04.961 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Bolt T-Shirt]
+[INFO ] 2024-06-15 12:58:04.961 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 12:58:15.054 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 13:09:31.144 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:09:31.177 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:09:31.399 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:09:31.399 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:09:31.422 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 13:09:31.453 [main] EComStore - Selected random item Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+[INFO ] 2024-06-15 13:09:31.500 [main] EComStore - adding product Sauce Labs Bike Light to cart
+[INFO ] 2024-06-15 13:09:31.563 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 13:09:31.563 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:09:31.631 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 13:09:31.658 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Bike Light]
+[INFO ] 2024-06-15 13:09:31.658 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 13:09:41.718 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 13:10:39.543 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:10:39.579 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:10:39.797 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:10:39.797 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:10:39.820 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 13:10:39.849 [main] EComStore - Selected random item Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+[INFO ] 2024-06-15 13:10:39.895 [main] EComStore - adding product Sauce Labs Bike Light to cart
+[INFO ] 2024-06-15 13:10:39.959 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 13:10:39.959 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:10:40.029 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 13:10:40.055 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Bike Light]
+[INFO ] 2024-06-15 13:10:40.055 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 13:10:50.146 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 13:10:50.152 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:12:24.566 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:12:24.605 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:12:24.827 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:12:24.827 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:14:03.450 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:14:03.487 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:14:03.711 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:14:03.711 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:14:03.764 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 13:15:26.539 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:15:26.595 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:15:26.819 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:15:26.819 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:15:26.869 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 13:15:26.931 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 13:17:03.793 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:17:03.835 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:17:04.063 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:17:04.063 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:17:04.122 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 13:17:04.190 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 13:17:43.924 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:17:43.961 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:17:44.195 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:17:44.195 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:17:44.251 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 13:17:44.325 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 13:18:36.547 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:18:36.585 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:18:36.820 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:18:36.820 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:18:36.873 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 13:18:36.943 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 13:20:55.760 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:20:55.800 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:20:56.021 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:20:56.022 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:20:56.080 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 13:20:56.155 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 13:22:44.044 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:22:44.079 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:22:44.314 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:22:44.315 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:22:44.337 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 13:22:44.367 [main] EComStore - Selected random item Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+Add to cart
+[INFO ] 2024-06-15 13:22:44.414 [main] EComStore - adding product Sauce Labs Onesie to cart
+[INFO ] 2024-06-15 13:22:44.468 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:22:44.540 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 13:22:44.569 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Onesie]
+[INFO ] 2024-06-15 13:22:44.569 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 13:22:54.681 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 13:22:54.688 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:25:11.871 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:25:11.910 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:25:12.135 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:25:12.135 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:25:12.160 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 13:25:12.192 [main] EComStore - Selected random item Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Add to cart
+[INFO ] 2024-06-15 13:25:12.237 [main] EComStore - adding product Sauce Labs Backpack to cart
+[INFO ] 2024-06-15 13:25:12.283 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:25:12.354 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 13:25:12.384 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Backpack]
+[INFO ] 2024-06-15 13:25:12.384 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 13:25:22.480 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 13:25:32.529 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:27:55.632 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:27:55.665 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:27:55.885 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:27:55.885 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:27:55.908 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 13:27:55.937 [main] EComStore - Selected random item Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 13:27:55.959 [main] EComStore - adding product Test.allTheThings() T-Shirt (Red) to cart
+[INFO ] 2024-06-15 13:27:56.009 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:27:56.086 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 13:27:56.112 [main] EComStore - Items successfully added to the cart 
+[Test.allTheThings() T-Shirt (Red)]
+[INFO ] 2024-06-15 13:27:56.113 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 13:28:06.189 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 13:28:06.197 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:29:48.892 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:29:48.925 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:29:49.162 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:29:49.162 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:29:49.184 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 13:29:49.212 [main] EComStore - Selected random item Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 13:29:49.235 [main] EComStore - adding product Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-06-15 13:29:49.290 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:29:49.365 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 13:29:49.392 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Bolt T-Shirt]
+[INFO ] 2024-06-15 13:29:49.392 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 13:29:59.472 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 13:29:59.478 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:30:48.579 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:30:48.619 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:30:48.845 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:30:48.846 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:30:48.899 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 13:30:48.970 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 13:31:51.775 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:31:51.824 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:31:52.051 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:31:52.051 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:31:52.103 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 13:31:52.176 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 13:32:10.134 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:32:10.171 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:32:10.403 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:32:10.403 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 13:32:10.454 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 13:32:10.526 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 13:32:10.532 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:33:04.171 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:33:04.205 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:33:04.432 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:33:04.432 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:33:04.462 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 13:33:04.464 [main] EComStore - 4
+[INFO ] 2024-06-15 13:33:04.492 [main] EComStore - Selected random item Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+Add to cart
+[INFO ] 2024-06-15 13:33:04.515 [main] EComStore - product selected is : Sauce Labs Onesie
+[INFO ] 2024-06-15 13:33:04.538 [main] EComStore - product price is : $7.99
+[INFO ] 2024-06-15 13:33:04.538 [main] EComStore - adding product Sauce Labs Onesie to cart
+[INFO ] 2024-06-15 13:33:04.614 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 13:33:04.665 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 13:33:25.889 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:33:25.924 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:33:26.167 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:33:26.167 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:33:26.176 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 13:33:26.177 [main] EComStore - verifyInventoryItems - Failed
+[INFO ] 2024-06-15 13:33:26.177 [main] EComStore - There seems a problem - no items in inventory!!
+[INFO ] 2024-06-15 13:33:26.408 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:34:40.580 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:34:40.618 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:34:40.847 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:34:40.847 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:34:40.860 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 13:34:40.860 [main] EComStore - verifyInventoryItems - Failed
+[INFO ] 2024-06-15 13:34:40.860 [main] EComStore - There seems a problem - no items in inventory!!
+[INFO ] 2024-06-15 13:34:41.125 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:36:15.274 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:36:15.323 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:36:15.548 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:36:15.549 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:36:15.557 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 13:36:15.557 [main] EComStore - verifyInventoryItems - Failed
+[INFO ] 2024-06-15 13:36:15.558 [main] EComStore - There seems a problem - no items in inventory!!
+[INFO ] 2024-06-15 13:36:15.812 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:38:18.662 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:38:18.698 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:38:18.923 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:38:18.924 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:38:18.939 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 13:38:18.939 [main] EComStore - verifyInventoryItems - Failed
+[INFO ] 2024-06-15 13:38:18.940 [main] EComStore - There seems a problem - no items in inventory!!
+[INFO ] 2024-06-15 13:38:19.206 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:39:03.165 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:39:03.205 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:39:03.436 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:39:03.437 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:39:03.451 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 13:39:03.452 [main] EComStore - verifyInventoryItems - Failed
+[INFO ] 2024-06-15 13:39:03.452 [main] EComStore - There seems a problem - no items in inventory!!
+[INFO ] 2024-06-15 13:39:03.696 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:40:17.344 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:40:17.385 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:40:17.604 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:40:17.604 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:40:17.630 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 13:40:17.630 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 13:42:26.658 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:42:26.694 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:42:26.931 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:42:26.931 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:42:26.957 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 13:42:26.958 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 13:45:31.767 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:45:31.804 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:45:32.030 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:45:32.030 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:45:32.053 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 13:45:32.053 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 13:45:32.359 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 13:46:11.288 [main] EComStore - url launched
+[INFO ] 2024-06-15 13:46:11.324 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:46:11.561 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:46:11.562 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:46:11.589 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 13:46:11.589 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 13:46:11.893 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 13:46:11.909 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 13:46:12.068 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 13:46:12.068 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 13:46:12.078 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 13:46:12.079 [main] EComStore - 2
+[INFO ] 2024-06-15 13:46:12.102 [main] EComStore - Selected random item Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 13:46:12.121 [main] EComStore - product selected is : Sauce Labs Bolt T-Shirt
+[INFO ] 2024-06-15 13:46:12.140 [main] EComStore - product price is : $15.99
+[INFO ] 2024-06-15 13:46:12.141 [main] EComStore - adding product Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-06-15 13:46:12.205 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 13:46:12.251 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 16:50:54.934 [main] EComStore - url launched
+[INFO ] 2024-06-15 16:50:54.986 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 16:50:55.235 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 16:50:55.236 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 16:50:55.254 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 16:50:55.284 [main] EComStore - Selected random item Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 16:53:55.935 [main] EComStore - url launched
+[INFO ] 2024-06-15 16:53:55.975 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 16:53:56.199 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 16:53:56.199 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 16:53:56.218 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 16:53:56.257 [main] EComStore - selected random item - Sauce Labs Bike Light
+[INFO ] 2024-06-15 16:54:30.680 [main] EComStore - url launched
+[INFO ] 2024-06-15 16:54:30.731 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 16:54:30.961 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 16:54:30.961 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 16:54:30.980 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 16:54:31.018 [main] EComStore - selected random item - Sauce Labs Fleece Jacket
+[INFO ] 2024-06-15 16:55:53.004 [main] EComStore - url launched
+[INFO ] 2024-06-15 16:55:53.047 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 16:55:53.273 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 16:55:53.274 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 16:55:53.296 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 16:55:53.336 [main] EComStore - selected random item - Test.allTheThings() T-Shirt (Red)
+[INFO ] 2024-06-15 16:56:28.274 [main] EComStore - url launched
+[INFO ] 2024-06-15 16:56:28.319 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 16:56:28.544 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 16:56:28.544 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 16:56:28.562 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 16:56:28.600 [main] EComStore - selected random item - Sauce Labs Backpack
+[INFO ] 2024-06-15 16:56:28.642 [main] EComStore - $29.99
+[INFO ] 2024-06-15 16:57:52.161 [main] EComStore - url launched
+[INFO ] 2024-06-15 16:57:52.203 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 16:57:52.440 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 16:57:52.441 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 16:57:52.459 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 16:57:52.496 [main] EComStore - selected random item - Sauce Labs Backpack
+[INFO ] 2024-06-15 16:57:52.536 [main] EComStore - $29.99
+[INFO ] 2024-06-15 17:00:51.207 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:00:51.246 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:00:51.468 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:00:51.468 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:00:51.491 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:00:51.532 [main] EComStore - selected random item - Sauce Labs Onesie
+[INFO ] 2024-06-15 17:00:51.575 [main] EComStore - $7.99
+[INFO ] 2024-06-15 17:00:51.598 [main] EComStore - adding product Sauce Labs Onesie to cart
+[INFO ] 2024-06-15 17:00:51.651 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:00:51.711 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:02:46.192 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:02:46.235 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:02:46.449 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:02:46.449 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:02:46.469 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:02:46.509 [main] EComStore - selected random item - Sauce Labs Backpack
+[INFO ] 2024-06-15 17:02:46.551 [main] EComStore - $29.99
+[INFO ] 2024-06-15 17:02:46.571 [main] EComStore - adding product Sauce Labs Backpack to cart
+[INFO ] 2024-06-15 17:02:46.612 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:02:46.673 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:02:46.739 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 17:02:46.901 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 17:02:46.901 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 17:03:23.973 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:03:24.015 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:03:24.238 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:03:24.238 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:03:24.257 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:03:24.296 [main] EComStore - selected random item - Sauce Labs Fleece Jacket
+[INFO ] 2024-06-15 17:03:24.337 [main] EComStore - $49.99
+[INFO ] 2024-06-15 17:03:24.357 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 17:03:24.404 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:03:24.467 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:03:24.535 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 17:03:24.697 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 17:03:24.697 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 17:03:24.775 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 17:07:04.532 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:07:04.575 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:07:04.786 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:07:04.787 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:07:04.802 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:07:04.842 [main] EComStore - selected random item - Sauce Labs Fleece Jacket
+[INFO ] 2024-06-15 17:07:04.885 [main] EComStore - $49.99
+[INFO ] 2024-06-15 17:07:04.904 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 17:07:04.952 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:07:05.014 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:07:05.081 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 17:07:05.235 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 17:07:05.235 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 17:07:05.312 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 17:07:05.331 [main] EComStore - total cost verified 49.99
+[INFO ] 2024-06-15 17:07:05.372 [main] EComStore - tax amount 4.0 and final cost is 53.99
+[INFO ] 2024-06-15 17:07:05.372 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 17:07:43.060 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:07:43.099 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:07:43.326 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:07:43.326 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:07:43.344 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:07:43.382 [main] EComStore - selected random item - Sauce Labs Onesie
+[INFO ] 2024-06-15 17:07:43.426 [main] EComStore - $7.99
+[INFO ] 2024-06-15 17:07:43.445 [main] EComStore - adding product Sauce Labs Onesie to cart
+[INFO ] 2024-06-15 17:07:43.496 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:07:43.554 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:07:43.618 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 17:07:43.780 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 17:07:43.780 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 17:07:43.859 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 17:07:43.879 [main] EComStore - total cost verified 7.99
+[INFO ] 2024-06-15 17:07:43.918 [main] EComStore - tax amount 0.64 and final cost is 8.63
+[INFO ] 2024-06-15 17:07:43.918 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 17:07:43.982 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 17:07:44.036 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2024-06-15 17:09:41.641 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:09:41.837 [main] EComStore - added username and password
+[INFO ] 2024-06-15 17:09:41.920 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 17:09:41.958 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 17:09:54.288 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:09:54.293 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:09:54.528 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:09:54.529 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:09:54.546 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 17:09:54.546 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 17:09:54.839 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 17:09:54.842 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:09:55.007 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:09:55.007 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:09:55.020 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:09:55.022 [main] EComStore - 5
+[INFO ] 2024-06-15 17:09:55.046 [main] EComStore - Selected random item Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 17:09:55.062 [main] EComStore - product selected is : Test.allTheThings() T-Shirt (Red)
+[INFO ] 2024-06-15 17:09:55.081 [main] EComStore - product price is : $15.99
+[INFO ] 2024-06-15 17:09:55.081 [main] EComStore - adding product Test.allTheThings() T-Shirt (Red) to cart
+[INFO ] 2024-06-15 17:09:55.142 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 17:09:55.188 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 17:09:56.578 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:09:56.582 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:09:56.809 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:09:56.809 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:09:56.866 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 17:09:56.939 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 17:09:57.095 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:09:57.246 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:09:57.246 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:09:57.257 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:09:57.278 [main] EComStore - Selected random item Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+Add to cart
+[INFO ] 2024-06-15 17:09:57.298 [main] EComStore - adding product Sauce Labs Onesie to cart
+[INFO ] 2024-06-15 17:09:57.342 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:09:57.402 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 17:09:57.428 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Onesie]
+[INFO ] 2024-06-15 17:09:57.428 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 17:10:07.487 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 17:10:10.661 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:10:10.672 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:10:10.896 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:10:10.897 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:10:10.915 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:10:10.949 [main] EComStore - selected random item - Test.allTheThings() T-Shirt (Red)
+[INFO ] 2024-06-15 17:10:10.990 [main] EComStore - $15.99
+[INFO ] 2024-06-15 17:10:11.011 [main] EComStore - adding product Test.allTheThings() T-Shirt (Red) to cart
+[INFO ] 2024-06-15 17:10:11.049 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:10:11.115 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:10:11.178 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 17:10:11.336 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 17:10:11.336 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 17:10:11.408 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 17:10:11.426 [main] EComStore - total cost verified 15.99
+[INFO ] 2024-06-15 17:10:11.460 [main] EComStore - tax amount 1.28 and final cost is 17.27
+[INFO ] 2024-06-15 17:10:11.460 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 17:10:11.517 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 17:10:11.564 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2024-06-15 17:11:36.128 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:11:36.314 [main] EComStore - added username and password
+[INFO ] 2024-06-15 17:11:36.398 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 17:11:36.433 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 17:11:47.909 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:11:47.912 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:11:48.161 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:11:48.162 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:11:48.181 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 17:11:48.181 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 17:11:48.473 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 17:11:48.477 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:11:48.623 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:11:48.623 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:11:48.632 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:11:48.633 [main] EComStore - 1
+[INFO ] 2024-06-15 17:11:48.660 [main] EComStore - Selected random item Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+[INFO ] 2024-06-15 17:11:48.680 [main] EComStore - product selected is : Sauce Labs Bike Light
+[INFO ] 2024-06-15 17:11:48.702 [main] EComStore - product price is : $9.99
+[INFO ] 2024-06-15 17:11:48.702 [main] EComStore - adding product Sauce Labs Bike Light to cart
+[INFO ] 2024-06-15 17:11:48.767 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 17:11:48.811 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 17:11:50.173 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:11:50.179 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:11:50.413 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:11:50.414 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:11:50.464 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 17:11:50.544 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 17:11:50.708 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:11:50.861 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:11:50.861 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:11:50.874 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:11:50.898 [main] EComStore - Selected random item Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 17:11:50.918 [main] EComStore - adding product Test.allTheThings() T-Shirt (Red) to cart
+[INFO ] 2024-06-15 17:11:50.961 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:11:51.025 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 17:11:51.052 [main] EComStore - Items successfully added to the cart 
+[Test.allTheThings() T-Shirt (Red)]
+[INFO ] 2024-06-15 17:11:51.052 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 17:12:01.135 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 17:12:02.645 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:12:02.652 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:12:02.883 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:12:02.884 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:12:02.901 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:12:02.934 [main] EComStore - selected random item - Sauce Labs Bolt T-Shirt
+[INFO ] 2024-06-15 17:12:02.970 [main] EComStore - $15.99
+[INFO ] 2024-06-15 17:12:02.991 [main] EComStore - adding product Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-06-15 17:12:03.032 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:12:03.105 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:12:03.168 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 17:12:03.335 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 17:12:03.335 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 17:12:03.413 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 17:12:03.431 [main] EComStore - total cost verified 15.99
+[INFO ] 2024-06-15 17:12:03.473 [main] EComStore - tax amount 1.28 and final cost is 17.27
+[INFO ] 2024-06-15 17:12:03.473 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 17:12:03.541 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 17:12:03.592 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2024-06-15 17:12:28.834 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:12:29.009 [main] EComStore - added username and password
+[INFO ] 2024-06-15 17:12:29.088 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 17:12:29.124 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 17:12:55.236 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:12:55.425 [main] EComStore - added username and password
+[INFO ] 2024-06-15 17:12:55.507 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 17:12:55.540 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 17:12:57.115 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:12:57.120 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:12:57.354 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:12:57.354 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:12:57.371 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 17:12:57.371 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 17:12:57.656 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 17:12:57.659 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:12:57.821 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:12:57.822 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:12:57.833 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:12:57.835 [main] EComStore - 5
+[INFO ] 2024-06-15 17:12:57.860 [main] EComStore - Selected random item Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 17:12:57.875 [main] EComStore - product selected is : Test.allTheThings() T-Shirt (Red)
+[INFO ] 2024-06-15 17:12:57.895 [main] EComStore - product price is : $15.99
+[INFO ] 2024-06-15 17:12:57.895 [main] EComStore - adding product Test.allTheThings() T-Shirt (Red) to cart
+[INFO ] 2024-06-15 17:12:57.959 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 17:12:58.004 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 17:12:59.468 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:12:59.474 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:12:59.710 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:12:59.711 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:12:59.773 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 17:12:59.838 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 17:13:00.020 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:13:00.171 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:13:00.171 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:13:00.183 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:13:00.206 [main] EComStore - Selected random item Sauce Labs Fleece Jacket
+It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+$49.99
+Add to cart
+[INFO ] 2024-06-15 17:13:00.225 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 17:13:00.268 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:13:00.325 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 17:13:00.351 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Fleece Jacket]
+[INFO ] 2024-06-15 17:13:00.352 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 17:13:10.447 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 17:13:12.460 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:13:12.467 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:13:12.690 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:13:12.690 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:13:12.706 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:13:12.738 [main] EComStore - selected random item - Sauce Labs Onesie
+[INFO ] 2024-06-15 17:13:12.774 [main] EComStore - $7.99
+[INFO ] 2024-06-15 17:13:12.791 [main] EComStore - adding product Sauce Labs Onesie to cart
+[INFO ] 2024-06-15 17:13:12.833 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:13:12.899 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:13:12.960 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 17:13:13.127 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 17:13:13.127 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 17:13:13.201 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 17:13:13.221 [main] EComStore - total cost verified 7.99
+[INFO ] 2024-06-15 17:13:13.255 [main] EComStore - tax amount 0.64 and final cost is 8.63
+[INFO ] 2024-06-15 17:13:13.255 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 17:13:13.315 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 17:13:13.367 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2024-06-15 17:15:11.746 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:15:11.930 [main] EComStore - added username and password
+[INFO ] 2024-06-15 17:15:12.007 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 17:15:12.043 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 17:15:13.464 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:15:13.467 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:15:13.707 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:15:13.707 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:15:13.723 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 17:15:13.723 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 17:15:14.020 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 17:15:14.024 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:15:14.206 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:15:14.206 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:15:14.224 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:15:14.225 [main] EComStore - 2
+[INFO ] 2024-06-15 17:15:14.249 [main] EComStore - Selected random item Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 17:15:14.267 [main] EComStore - product selected is : Sauce Labs Bolt T-Shirt
+[INFO ] 2024-06-15 17:15:14.288 [main] EComStore - product price is : $15.99
+[INFO ] 2024-06-15 17:15:14.288 [main] EComStore - adding product Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-06-15 17:15:14.349 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 17:15:14.395 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 17:15:15.793 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:15:15.799 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:15:16.029 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:15:16.029 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:15:16.090 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 17:15:16.156 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 17:15:16.325 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:15:16.482 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:15:16.482 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:15:16.494 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:15:16.517 [main] EComStore - Selected random item Sauce Labs Fleece Jacket
+It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+$49.99
+Add to cart
+[INFO ] 2024-06-15 17:15:16.536 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 17:15:16.578 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:15:16.638 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 17:15:16.663 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Fleece Jacket]
+[INFO ] 2024-06-15 17:15:16.663 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 17:15:26.722 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 17:15:29.791 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:15:29.807 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:15:30.074 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:15:30.075 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:15:30.093 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:15:30.130 [main] EComStore - selected random item - Sauce Labs Onesie
+[INFO ] 2024-06-15 17:15:30.173 [main] EComStore - $7.99
+[INFO ] 2024-06-15 17:15:30.196 [main] EComStore - adding product Sauce Labs Onesie to cart
+[INFO ] 2024-06-15 17:15:30.240 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:15:30.313 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:15:30.382 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 17:15:30.549 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 17:15:30.549 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 17:15:30.625 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 17:15:30.649 [main] EComStore - total cost verified 7.99
+[INFO ] 2024-06-15 17:15:30.688 [main] EComStore - tax amount 0.64 and final cost is 8.63
+[INFO ] 2024-06-15 17:15:30.688 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 17:15:30.752 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 17:15:30.808 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2024-06-15 17:18:53.331 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:18:53.520 [main] EComStore - added username and password
+[INFO ] 2024-06-15 17:18:53.602 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 17:18:53.645 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 17:18:55.117 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:18:55.122 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:18:55.355 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:18:55.356 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:18:55.375 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 17:18:55.376 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 17:18:55.672 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 17:18:55.675 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:18:55.824 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:18:55.824 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:18:55.836 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:18:55.837 [main] EComStore - 1
+[INFO ] 2024-06-15 17:18:55.860 [main] EComStore - Selected random item Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+[INFO ] 2024-06-15 17:18:55.878 [main] EComStore - product selected is : Sauce Labs Bike Light
+[INFO ] 2024-06-15 17:18:55.897 [main] EComStore - product price is : $9.99
+[INFO ] 2024-06-15 17:18:55.897 [main] EComStore - adding product Sauce Labs Bike Light to cart
+[INFO ] 2024-06-15 17:18:55.957 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 17:18:56.003 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 17:18:57.391 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:18:57.401 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:18:57.631 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:18:57.632 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:18:57.687 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 17:18:57.756 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 17:18:57.933 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:18:58.083 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:18:58.083 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:18:58.096 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:18:58.119 [main] EComStore - Selected random item Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+[INFO ] 2024-06-15 17:18:58.137 [main] EComStore - adding product Sauce Labs Bike Light to cart
+[INFO ] 2024-06-15 17:18:58.181 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:18:58.239 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 17:18:58.266 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Bike Light]
+[INFO ] 2024-06-15 17:18:58.266 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 17:19:08.343 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 17:19:11.364 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:19:11.373 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:19:11.591 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:19:11.591 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:19:11.609 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:19:11.656 [main] EComStore - selected random item - Sauce Labs Bolt T-Shirt
+[INFO ] 2024-06-15 17:19:11.698 [main] EComStore - $15.99
+[INFO ] 2024-06-15 17:19:11.716 [main] EComStore - adding product Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-06-15 17:19:11.755 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:19:11.824 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:19:11.897 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 17:19:12.054 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 17:19:12.054 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 17:19:12.130 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 17:19:12.149 [main] EComStore - total cost verified 15.99
+[INFO ] 2024-06-15 17:19:12.184 [main] EComStore - tax amount 1.28 and final cost is 17.27
+[INFO ] 2024-06-15 17:19:12.184 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 17:19:12.242 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 17:19:12.295 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2024-06-15 17:54:38.708 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:54:38.938 [main] EComStore - added username and password
+[INFO ] 2024-06-15 17:54:39.024 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 17:54:39.075 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 17:54:40.672 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:54:40.675 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:54:40.931 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:54:40.931 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:54:40.959 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 17:54:40.959 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 17:54:41.296 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 17:54:41.298 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:54:41.476 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:54:41.476 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:54:41.488 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:54:41.489 [main] EComStore - 2
+[INFO ] 2024-06-15 17:54:41.513 [main] EComStore - Selected random item Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 17:54:41.531 [main] EComStore - product selected is : Sauce Labs Bolt T-Shirt
+[INFO ] 2024-06-15 17:54:41.552 [main] EComStore - product price is : $15.99
+[INFO ] 2024-06-15 17:54:41.552 [main] EComStore - adding product Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-06-15 17:54:41.621 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 17:54:41.674 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 17:54:43.121 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:54:43.128 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:54:43.394 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:54:43.395 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:54:43.459 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 17:54:43.540 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 17:54:43.724 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:54:43.893 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:54:43.893 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:54:43.905 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:54:43.930 [main] EComStore - Selected random item Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 17:54:43.953 [main] EComStore - adding product Test.allTheThings() T-Shirt (Red) to cart
+[INFO ] 2024-06-15 17:54:44.004 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:54:44.073 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 17:54:44.099 [main] EComStore - Items successfully added to the cart 
+[Test.allTheThings() T-Shirt (Red)]
+[INFO ] 2024-06-15 17:54:44.099 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 17:54:54.257 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 17:54:55.775 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:54:55.780 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:54:56.023 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:54:56.024 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:54:56.040 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:54:56.073 [main] EComStore - selected random item - Sauce Labs Fleece Jacket
+[INFO ] 2024-06-15 17:54:56.112 [main] EComStore - $49.99
+[INFO ] 2024-06-15 17:54:56.129 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 17:54:56.183 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:54:56.254 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:54:56.317 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 17:54:56.485 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 17:54:56.485 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 17:54:56.563 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 17:54:56.582 [main] EComStore - total cost verified 49.99
+[INFO ] 2024-06-15 17:54:56.618 [main] EComStore - tax amount 4.0 and final cost is 53.99
+[INFO ] 2024-06-15 17:54:56.619 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 17:54:56.676 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 17:54:56.727 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2024-06-15 17:56:37.908 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:56:38.083 [main] EComStore - added username and password
+[INFO ] 2024-06-15 17:56:38.157 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 17:56:38.190 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 17:56:39.605 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:56:39.608 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:56:39.857 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:56:39.857 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:56:39.873 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 17:56:39.873 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 17:56:40.174 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 17:56:40.176 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:56:40.345 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:56:40.345 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 17:56:40.357 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:56:40.358 [main] EComStore - 5
+[INFO ] 2024-06-15 17:56:40.379 [main] EComStore - Selected random item Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 17:56:40.396 [main] EComStore - product selected is : Test.allTheThings() T-Shirt (Red)
+[INFO ] 2024-06-15 17:56:40.416 [main] EComStore - product price is : $15.99
+[INFO ] 2024-06-15 17:56:40.417 [main] EComStore - adding product Test.allTheThings() T-Shirt (Red) to cart
+[INFO ] 2024-06-15 17:56:40.484 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 17:56:40.531 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 17:56:41.994 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:56:42.000 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:56:42.236 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:56:42.236 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:56:42.296 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 17:56:42.369 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 17:56:42.537 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:56:42.693 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:56:42.693 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:56:42.705 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:56:42.728 [main] EComStore - Selected random item Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 17:56:42.748 [main] EComStore - adding product Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-06-15 17:56:42.793 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:56:42.853 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 17:56:42.881 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Bolt T-Shirt]
+[INFO ] 2024-06-15 17:56:42.881 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 17:56:52.966 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 17:56:54.468 [main] EComStore - url launched
+[INFO ] 2024-06-15 17:56:54.476 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 17:56:54.725 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 17:56:54.726 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 17:56:54.741 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 17:56:54.774 [main] EComStore - selected random item - Sauce Labs Backpack
+[INFO ] 2024-06-15 17:56:54.814 [main] EComStore - $29.99
+[INFO ] 2024-06-15 17:56:54.830 [main] EComStore - adding product Sauce Labs Backpack to cart
+[INFO ] 2024-06-15 17:56:54.873 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 17:56:54.943 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 17:56:55.007 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 17:56:55.172 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 17:56:55.172 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 17:56:55.253 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 17:56:55.273 [main] EComStore - total cost verified 29.99
+[INFO ] 2024-06-15 17:56:55.310 [main] EComStore - tax amount 2.4 and final cost is 32.39
+[INFO ] 2024-06-15 17:56:55.310 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 17:56:55.369 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 17:56:55.416 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2024-06-15 18:01:54.294 [main] EComStore - url launched
+[INFO ] 2024-06-15 18:01:54.469 [main] EComStore - added username and password
+[INFO ] 2024-06-15 18:01:54.556 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 18:01:54.590 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 18:01:56.082 [main] EComStore - url launched
+[INFO ] 2024-06-15 18:01:56.084 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 18:01:56.374 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 18:01:56.375 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 18:01:56.398 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 18:01:56.399 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 18:01:56.724 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 18:01:56.728 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 18:01:56.884 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 18:01:56.884 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 18:01:56.893 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 18:01:56.894 [main] EComStore - 5
+[INFO ] 2024-06-15 18:01:56.917 [main] EComStore - Selected random item Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 18:01:56.935 [main] EComStore - product selected is : Test.allTheThings() T-Shirt (Red)
+[INFO ] 2024-06-15 18:01:56.961 [main] EComStore - product price is : $15.99
+[INFO ] 2024-06-15 18:01:56.961 [main] EComStore - adding product Test.allTheThings() T-Shirt (Red) to cart
+[INFO ] 2024-06-15 18:01:57.026 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 18:01:57.076 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 18:01:58.567 [main] EComStore - url launched
+[INFO ] 2024-06-15 18:01:58.572 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 18:01:58.828 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 18:01:58.829 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 18:01:58.896 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 18:01:58.960 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 18:01:59.139 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 18:01:59.293 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 18:01:59.293 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 18:01:59.306 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 18:01:59.330 [main] EComStore - Selected random item Sauce Labs Bolt T-Shirt
+Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 18:01:59.351 [main] EComStore - adding product Sauce Labs Bolt T-Shirt to cart
+[INFO ] 2024-06-15 18:01:59.400 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 18:01:59.460 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 18:01:59.486 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Bolt T-Shirt]
+[INFO ] 2024-06-15 18:01:59.487 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 18:02:09.572 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 18:02:11.143 [main] EComStore - url launched
+[INFO ] 2024-06-15 18:02:11.155 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 18:02:11.413 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 18:02:11.413 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 18:02:11.427 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 18:02:11.459 [main] EComStore - selected random item - Sauce Labs Bike Light
+[INFO ] 2024-06-15 18:02:11.496 [main] EComStore - $9.99
+[INFO ] 2024-06-15 18:02:11.518 [main] EComStore - adding product Sauce Labs Bike Light to cart
+[INFO ] 2024-06-15 18:02:11.562 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 18:02:11.628 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 18:02:11.691 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 18:02:11.854 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 18:02:11.855 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 18:02:11.932 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 18:02:11.951 [main] EComStore - total cost verified 9.99
+[INFO ] 2024-06-15 18:02:11.986 [main] EComStore - tax amount 0.8 and final cost is 10.79
+[INFO ] 2024-06-15 18:02:11.987 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 18:02:12.047 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 18:02:12.098 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2024-06-15 18:06:47.602 [main] EComStore - url launched
+[INFO ] 2024-06-15 18:06:47.790 [main] EComStore - added username and password
+[INFO ] 2024-06-15 18:06:47.868 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 18:06:47.911 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 18:06:49.411 [main] EComStore - url launched
+[INFO ] 2024-06-15 18:06:49.413 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 18:06:49.653 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 18:06:49.653 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 18:06:49.673 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 18:06:49.673 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 18:06:49.997 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 18:06:49.999 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 18:06:50.188 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 18:06:50.188 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 18:06:50.201 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 18:06:50.202 [main] EComStore - 5
+[INFO ] 2024-06-15 18:06:50.226 [main] EComStore - Selected random item Test.allTheThings() T-Shirt (Red)
+This classic Sauce Labs t-shirt is perfect to wear when cozying up to your keyboard to automate a few tests. Super-soft and comfy ringspun combed cotton.
+$15.99
+Add to cart
+[INFO ] 2024-06-15 18:06:50.245 [main] EComStore - product selected is : Test.allTheThings() T-Shirt (Red)
+[INFO ] 2024-06-15 18:06:50.267 [main] EComStore - product price is : $15.99
+[INFO ] 2024-06-15 18:06:50.267 [main] EComStore - adding product Test.allTheThings() T-Shirt (Red) to cart
+[INFO ] 2024-06-15 18:06:50.344 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 18:06:50.397 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 18:06:51.791 [main] EComStore - url launched
+[INFO ] 2024-06-15 18:06:51.796 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 18:06:52.036 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 18:06:52.037 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 18:06:52.096 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 18:06:52.168 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 18:06:52.324 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 18:06:52.477 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 18:06:52.478 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 18:06:52.489 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 18:06:52.514 [main] EComStore - Selected random item Sauce Labs Fleece Jacket
+It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+$49.99
+Add to cart
+[INFO ] 2024-06-15 18:06:52.534 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 18:06:52.575 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 18:06:52.639 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 18:06:52.665 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Fleece Jacket]
+[INFO ] 2024-06-15 18:06:52.665 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 18:07:02.749 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 18:07:05.963 [main] EComStore - url launched
+[INFO ] 2024-06-15 18:07:05.968 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 18:07:06.200 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 18:07:06.201 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 18:07:06.218 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 18:07:06.253 [main] EComStore - selected random item - Sauce Labs Fleece Jacket
+[INFO ] 2024-06-15 18:07:06.290 [main] EComStore - $49.99
+[INFO ] 2024-06-15 18:07:06.311 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 18:07:06.352 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 18:07:06.422 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 18:07:06.491 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 18:07:06.652 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 18:07:06.652 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 18:07:06.733 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 18:07:06.751 [main] EComStore - total cost verified 49.99
+[INFO ] 2024-06-15 18:07:06.787 [main] EComStore - tax amount 4.0 and final cost is 53.99
+[INFO ] 2024-06-15 18:07:06.788 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 18:07:06.850 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 18:07:06.899 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2024-06-15 22:36:57.446 [main] EComStore - url launched
+[INFO ] 2024-06-15 22:36:57.671 [main] EComStore - added username and password
+[INFO ] 2024-06-15 22:36:57.760 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 22:36:57.799 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 22:36:59.483 [main] EComStore - url launched
+[INFO ] 2024-06-15 22:36:59.485 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 22:36:59.740 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 22:36:59.741 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 22:36:59.760 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 22:36:59.760 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 22:37:00.087 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 22:37:00.089 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 22:37:00.267 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 22:37:00.267 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 22:37:00.276 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 22:37:00.277 [main] EComStore - 4
+[INFO ] 2024-06-15 22:37:00.306 [main] EComStore - Selected random item Sauce Labs Onesie
+Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+$7.99
+Add to cart
+[INFO ] 2024-06-15 22:37:00.323 [main] EComStore - product selected is : Sauce Labs Onesie
+[INFO ] 2024-06-15 22:37:00.343 [main] EComStore - product price is : $7.99
+[INFO ] 2024-06-15 22:37:00.343 [main] EComStore - adding product Sauce Labs Onesie to cart
+[INFO ] 2024-06-15 22:37:00.434 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 22:37:00.490 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 22:37:02.026 [main] EComStore - url launched
+[INFO ] 2024-06-15 22:37:02.034 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 22:37:02.374 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 22:37:02.374 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 22:37:02.441 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 22:37:02.557 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 22:37:02.736 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 22:37:02.932 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 22:37:02.932 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 22:37:02.946 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 22:37:02.972 [main] EComStore - Selected random item Sauce Labs Fleece Jacket
+It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+$49.99
+Add to cart
+[INFO ] 2024-06-15 22:37:02.993 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 22:37:03.043 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 22:37:03.116 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 22:37:03.146 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Fleece Jacket]
+[INFO ] 2024-06-15 22:37:03.146 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 22:37:13.223 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 22:37:15.369 [main] EComStore - url launched
+[INFO ] 2024-06-15 22:37:15.382 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 22:37:15.649 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 22:37:15.649 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 22:37:15.663 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 22:37:15.700 [main] EComStore - selected random item - Sauce Labs Fleece Jacket
+[INFO ] 2024-06-15 22:37:15.735 [main] EComStore - $49.99
+[INFO ] 2024-06-15 22:37:15.765 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 22:37:15.814 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 22:37:15.876 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 22:37:15.972 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 22:37:16.143 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 22:37:16.144 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 22:37:16.231 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 22:37:16.250 [main] EComStore - total cost verified 49.99
+[INFO ] 2024-06-15 22:37:16.286 [main] EComStore - tax amount 4.0 and final cost is 53.99
+[INFO ] 2024-06-15 22:37:16.286 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 22:37:16.346 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 22:37:16.395 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
+[INFO ] 2024-06-15 22:42:26.626 [main] EComStore - url launched
+[INFO ] 2024-06-15 22:42:26.811 [main] EComStore - added username and password
+[INFO ] 2024-06-15 22:42:26.898 [main] EComStore - clicked on Login!
+[INFO ] 2024-06-15 22:42:26.938 [main] EComStore - verify Login - Passed
+[INFO ] 2024-06-15 22:42:28.494 [main] EComStore - url launched
+[INFO ] 2024-06-15 22:42:28.495 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 22:42:28.727 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 22:42:28.727 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 22:42:28.744 [main] EComStore - checking Inventory page items number
+[INFO ] 2024-06-15 22:42:28.744 [main] EComStore - verifyInventoryItems - Passed
+[INFO ] 2024-06-15 22:42:29.037 [main] EComStore - https://www.saucedemo.com/
+[INFO ] 2024-06-15 22:42:29.040 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 22:42:29.207 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 22:42:29.207 [main] EComStore - moving to Inventory page...
+[INFO ] 2024-06-15 22:42:29.218 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 22:42:29.219 [main] EComStore - 0
+[INFO ] 2024-06-15 22:42:29.243 [main] EComStore - Selected random item Sauce Labs Backpack
+carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+$29.99
+Add to cart
+[INFO ] 2024-06-15 22:42:29.260 [main] EComStore - product selected is : Sauce Labs Backpack
+[INFO ] 2024-06-15 22:42:29.280 [main] EComStore - product price is : $29.99
+[INFO ] 2024-06-15 22:42:29.280 [main] EComStore - adding product Sauce Labs Backpack to cart
+[INFO ] 2024-06-15 22:42:29.346 [main] EComStore - #items in Cart 1
+[INFO ] 2024-06-15 22:42:29.391 [main] EComStore - Product added to cart
+[INFO ] 2024-06-15 22:42:30.824 [main] EComStore - url launched
+[INFO ] 2024-06-15 22:42:30.827 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 22:42:31.062 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 22:42:31.063 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 22:42:31.126 [main] EComStore - clicking on ContinueShopping button
+[INFO ] 2024-06-15 22:42:31.207 [main] EComStore - back to inventory page: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-06-15 22:42:31.386 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 22:42:31.548 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 22:42:31.548 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 22:42:31.560 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 22:42:31.583 [main] EComStore - Selected random item Sauce Labs Bike Light
+A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+$9.99
+Add to cart
+[INFO ] 2024-06-15 22:42:31.601 [main] EComStore - adding product Sauce Labs Bike Light to cart
+[INFO ] 2024-06-15 22:42:31.645 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 22:42:31.706 [main] EComStore - successfuly landed on cart page...
+[INFO ] 2024-06-15 22:42:31.732 [main] EComStore - Items successfully added to the cart 
+[Sauce Labs Bike Light]
+[INFO ] 2024-06-15 22:42:31.733 [main] EComStore - removing items from cart...
+[INFO ] 2024-06-15 22:42:41.795 [main] EComStore - all items removed, cart empty!
+[INFO ] 2024-06-15 22:42:43.313 [main] EComStore - url launched
+[INFO ] 2024-06-15 22:42:43.324 [main] EComStore - logging into Swag app..
+[INFO ] 2024-06-15 22:42:43.563 [main] EComStore - logged in successfully
+[INFO ] 2024-06-15 22:42:43.564 [main] EComStore - On Inventory page...
+[INFO ] 2024-06-15 22:42:43.577 [main] EComStore - selecting randomly a product from Inventory items
+[INFO ] 2024-06-15 22:42:43.611 [main] EComStore - selected random item - Sauce Labs Fleece Jacket
+[INFO ] 2024-06-15 22:42:43.649 [main] EComStore - $49.99
+[INFO ] 2024-06-15 22:42:43.666 [main] EComStore - adding product Sauce Labs Fleece Jacket to cart
+[INFO ] 2024-06-15 22:42:43.718 [main] EComStore - moving to cart page...
+[INFO ] 2024-06-15 22:42:43.785 [main] EComStore - clicking on checkout button, moving to checkout page 1
+[INFO ] 2024-06-15 22:42:43.847 [main] EComStore - successfully landed on Checkout page 1
+[INFO ] 2024-06-15 22:42:44.005 [main] EComStore - entered user information, firstname, lastname and zipcode
+[INFO ] 2024-06-15 22:42:44.005 [main] EComStore - moving to checkout page 2
+[INFO ] 2024-06-15 22:42:44.085 [main] EComStore - Number of items in CheckOut verified 1
+[INFO ] 2024-06-15 22:42:44.102 [main] EComStore - total cost verified 49.99
+[INFO ] 2024-06-15 22:42:44.136 [main] EComStore - tax amount 4.0 and final cost is 53.99
+[INFO ] 2024-06-15 22:42:44.136 [main] EComStore - moving to finish checkout page...
+[INFO ] 2024-06-15 22:42:44.195 [main] EComStore - landed successfuly on finish checkout page...
+[INFO ] 2024-06-15 22:42:44.244 [main] EComStore - order successfully placed message Your order has been dispatched, and will arrive just as fast as the pony can get there!
